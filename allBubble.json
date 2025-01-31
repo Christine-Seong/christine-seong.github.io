@@ -1,0 +1,1375 @@
+[
+    {
+        "x": 1360,
+        "value": 64,
+        "size": 41500000,
+        "title": "Afghanistan",
+        "genre": "Asia"
+    },
+    {
+        "x": 6560,
+        "value": 75.8,
+        "size": 171000000,
+        "title": "Bangladesh",
+        "genre": "Asia"
+    },
+    {
+        "x": 12400,
+        "value": 74.3,
+        "size": 786000,
+        "title": "Bhutan",
+        "genre": "Asia"
+    },
+    {
+        "x": 59000,
+        "value": 74.2,
+        "size": 459000,
+        "title": "Brunei",
+        "genre": "Asia"
+    },
+    {
+        "x": 4730,
+        "value": 70.7,
+        "size": 17400000,
+        "title": "Cambodia",
+        "genre": "Asia"
+    },
+    {
+        "x": 19200,
+        "value": 78.4,
+        "size": 1420000000,
+        "title": "China",
+        "genre": "Asia"
+    },
+    {
+        "x": 51600,
+        "value": 83.5,
+        "size": 26500000,
+        "title": "Australia",
+        "genre": "Asia"
+    },
+    {
+        "x": 13300,
+        "value": 68.9,
+        "size": 924000,
+        "title": "Fiji",
+        "genre": "Asia"
+    },
+    {
+        "x": 58700,
+        "value": 0,
+        "size": 7440000,
+        "title": "Hong Kong, China",
+        "genre": "Asia"
+    },
+    {
+    "x": 7570,
+    "value": 71.9,
+    "size": 1440000000,
+    "title": "India",
+    "genre": "Asia"
+    },
+    {
+    "x": 12900,
+    "value": 72,
+    "size": 281000000,
+    "title": "Indonesia",
+    "genre": "Asia"
+    },
+    {
+    "x": 16100,
+    "value": 78.6,
+    "size": 90600000,
+    "title": "Iran",
+    "genre": "Asia"
+    },
+    {
+        "x": 8780,
+        "value": 73.8,
+        "size": 45100000,
+        "title": "Iraq",
+        "genre": "Asia"
+    },
+    {
+        "x": 44400,
+        "value": 83.6,
+        "size": 9260000,
+        "title": "Israel",
+        "genre": "Asia"
+    },
+    {
+        "x": 42600,
+        "value": 85.3,
+        "size": 124000000,
+        "title": "Japan",
+        "genre": "Asia"
+    },
+   
+    {
+        "x": 9510,
+        "value": 77.2,
+        "size": 11400000,
+        "title": "Jordan",
+        "genre": "Asia"
+    },
+    {
+        "x": 27300,
+        "value": 70.7,
+        "size": 20300000,
+        "title": "Kazakhstan",
+        "genre": "Asia"
+    },
+    {
+        "x": 2100,
+        "value": 61.4,
+        "size": 133000,
+        "title": "Kiribati",
+        "genre": "Asia"
+    },
+    
+    {
+        "x": 46700,
+        "value": 82.3,
+        "size": 4840000,
+        "title": "Kuwait",
+        "genre": "Asia"
+    },
+    {
+        "x": 5440,
+        "value": 73.3,
+        "size": 7070000,
+        "title": "Kyrgyz Republic",
+        "genre": "Asia"
+    },
+    {
+        "x": 8130,
+        "value": 70.1,
+        "size": 7660000,
+        "title": "Lao",
+        "genre": "Asia"
+    },
+    {
+        "x": 13500,
+        "value": 73.6,
+        "size": 5770000,
+        "title": "Lebanon",
+        "genre": "Asia"
+    },
+    {
+        "x": 29000,
+        "value": 75.7,
+        "size": 35100000,
+        "title": "Malaysia",
+        "genre": "Asia"
+    },
+    {
+        "x": 22200,
+        "value": 80,
+        "size": 526000,
+        "title": "Maldives",
+        "genre": "Asia"
+    },
+    {
+        "x": 6120,
+        "value": 66,
+        "size": 38800,
+        "title": "Marshall Island",
+        "genre": "Asia"
+    },
+    {
+        "x": 52700,
+        "value": 77.7,
+        "size": 1570000,
+        "title": "Bahrain",
+        "genre": "Asia"
+    },
+    {
+        "x": 3260,
+        "value": 64.3,
+        "size": 113000,
+        "title": "Micronesia, Fed. Sts.",
+        "genre": "Asia"
+    },
+    {
+        "x": 2700,
+        "value": 69.1,
+        "size": 3430000,
+        "title": "Mongolia",
+        "genre": "Asia"
+    },
+    {
+        "x": 4180,
+        "value": 70.3,
+        "size": 54100000,
+        "title": "Myanmar",
+        "genre": "Asia"
+    },
+    {
+        "x": 11100,
+        "value": 64.1,
+        "size": 11900,
+        "title": "Nauru",
+        "genre": "Asia"
+    },
+    {
+        "x": 4030,
+        "value": 72.3,
+        "size": 29700000,
+        "title": "Nepal",
+        "genre": "Asia"
+    },
+    {
+        "x": 44600,
+        "value": 82.4,
+        "size": 5170000,
+        "title": "New Zealand",
+        "genre": "Asia"
+    },
+    {
+        "x": 1800,
+        "value": 73.7,
+        "size": 26400000,
+        "title": "North Korea",
+        "genre": "Asia"
+    },
+    {
+        "x": 35300,
+        "value": 74.9,
+        "size": 5050000,
+        "title": "Oman",
+        "genre": "Asia"
+    },
+    {
+        "x": 5270,
+        "value": 66.4,
+        "size": 284000000,
+        "title": "Pakistan",
+        "genre": "Asia"
+    },
+    {
+        "x": 13800,
+        "value": 68.3,
+        "size": 17700,
+        "title": "Palau",
+        "genre": "Asia"
+    },
+    {
+        "x": 5290,
+        "value": 73.8,
+        "size": 5410000,
+        "title": "Palestine",
+        "genre": "Asia"
+    },
+    {
+        "x": 3820,
+        "value": 65.3,
+        "size": 10400000,
+        "title": "Papua New Guinea",
+        "genre": "Asia"
+    },
+    {
+        "x": 8920,
+        "value": 72.3,
+        "size": 115000000,
+        "title": "Philippines",
+        "genre": "Asia"
+    },
+    {
+        "x": 88800,
+        "value": 77,
+        "size": 2980000,
+        "title": "Qatar",
+        "genre": "Asia"
+    },
+    {
+        "x": 5490,
+        "value": 71.1,
+        "size": 217000,
+        "title": "Samoa",
+        "genre": "Asia"
+    },
+    {
+        "x": 48400,
+        "value": 75.3,
+        "size": 33300000,
+        "title": "Saudi Arabia",
+        "genre": "Asia"
+    },
+    {
+        "x": 104000,
+        "value": 85.4,
+        "size": 5790000,
+        "title": "Singapore",
+        "genre": "Asia"
+    },
+    {
+        "x": 2420,
+        "value": 59.6,
+        "size": 800000,
+        "title": "Solomon Islands",
+        "genre": "Asia"
+    },
+    {
+        "x": 46100,
+        "value": 83.4,
+        "size": 51700000,
+        "title": "South Korea",
+        "genre": "Asia"
+    },
+    {
+        "x": 12100,
+        "value": 78.1,
+        "size": 23000000,
+        "title": "Sri Lanka",
+        "genre": "Asia"
+    },
+    {
+        "x": 3170,
+        "value": 74.5,
+        "size": 23600000,
+        "title": "Syria",
+        "genre": "Asia"
+    },
+    {
+        "x": 59500,
+        "value": 81.1,
+        "size": 23300000,
+        "title": "Taiwan",
+        "genre": "Asia"
+    },
+    {
+        "x": 4400,
+        "value": 70.1,
+        "size": 10400000,
+        "title": "Tajikistan",
+        "genre": "Asia"
+    },
+    {
+        "x": 17800,
+        "value": 79.3,
+        "size": 71700000,
+        "title": "Thailand",
+        "genre": "Asia"
+    },
+    {
+        "x": 3320,
+        "value": 71.7,
+        "size": 1380000,
+        "title": "Timor-Leste",
+        "genre": "Asia"
+    },
+    {
+        "x": 5800,
+        "value": 73.5,
+        "size": 105000,
+        "title": "Tonga",
+        "genre": "Asia"
+    },
+    {
+        "x": 15600,
+        "value": 71.4,
+        "size": 7360000,
+        "title": "Turkmenistan",
+        "genre": "Asia"
+    },
+    {
+        "x": 4730,
+        "value": 68.8,
+        "size": 9820,
+        "title": "Tuvalu",
+        "genre": "Asia"
+    },
+    {
+        "x": 76500,
+        "value": 74.6,
+        "size": 10600000,
+        "title": "UAE",
+        "genre": "Asia"
+    },
+    {
+        "x": 8380,
+        "value": 68.9,
+        "size": 35700000,
+        "title": "Uzbekistan",
+        "genre": "Asia"
+    },
+    {
+        "x": 2780,
+        "value": 66.2,
+        "size": 320000,
+        "title": "Vanuatu",
+        "genre": "Asia"
+    },
+    {
+        "x": 11900,
+        "value": 75.1,
+        "size": 100000000,
+        "title": "Vietnam",
+        "genre": "Asia"
+    },
+    {
+        "x": 1650,
+        "value": 67.2,
+        "size": 39400000,
+        "title": "Yeman",
+        "genre": "Asia"
+    },
+    {
+        "x": 16200,
+        "value": 77.3,
+        "size": 2810000,
+        "title": "Albania",
+        "genre": "Europe"
+    },
+    {
+        "x": 55300,
+        "value": 82.9,
+        "size": 80900,
+        "title": "Andorra",
+        "genre": "Europe"
+    },
+    {
+        "x": 17500,
+        "value": 76.5,
+        "size": 2940000,
+        "title": "Armenia",
+        "genre": "Europe"
+    },
+    {
+        "x": 55200,
+        "value": 82.8,
+        "size": 9130000,
+        "title": "Austria",
+        "genre": "Europe"
+    },
+    {
+        "x": 15300,
+        "value": 71.5,
+        "size": 10300000,
+        "title": "Azerbaijian",
+        "genre": "Europe"
+    },
+    {
+        "x": 19900,
+        "value": 74.8,
+        "size": 9120000,
+        "title": "Belarus",
+        "genre": "Europe"
+    },
+    {
+        "x": 53000,
+        "value": 82,
+        "size": 11700000,
+        "title": "Belgium",
+        "genre": "Europe"
+    },
+    {
+        "x": 17200,
+        "value": 75.9,
+        "size": 3190000,
+        "title": "Bosnia and Herzegovina",
+        "genre": "Europe"
+    },
+    {
+        "x": 27600,
+        "value": 71.2,
+        "size": 6800000,
+        "title": "Bulgaria",
+        "genre": "Europe"
+    },
+    {
+    "x": 35300,
+    "value": 79.3,
+    "size": 3900000,
+    "title": "Croatia",
+    "genre": "Europe"
+    },
+    {
+    "x": 43500,
+    "value": 81.5,
+    "size": 1340000,
+    "title": "Cyprus",
+    "genre": "Europe"
+    },
+    {
+    "x": 40200,
+    "value": 80,
+    "size": 10800000,
+    "title": "Czech Republic",
+    "genre": "Europe"
+    },
+    {
+        "x": 59800,
+        "value": 81.7,
+        "size": 5950000,
+        "title": "Denmark",
+        "genre": "Europe"
+    },
+    {
+        "x": 36400,
+        "value": 78.7,
+        "size": 1370000,
+        "title": "Estonia",
+        "genre": "Europe"
+    },
+    {
+        "x": 48500,
+        "value": 82.5,
+        "size": 5600000,
+        "title": "Finland",
+        "genre": "Europe"
+    },
+   
+    {
+        "x": 46100,
+        "value": 83.5,
+        "size": 66400000,
+        "title": "France",
+        "genre": "Europe"
+    },
+    {
+        "x": 18200,
+        "value": 72.4,
+        "size": 3810000,
+        "title": "Georgia",
+        "genre": "Europe"
+    },
+    {
+        "x": 53200,
+        "value": 81.8,
+        "size": 84500000,
+        "title": "Germany",
+        "genre": "Europe"
+    },
+    
+    {
+        "x": 32500,
+        "value": 81.7,
+        "size": 10200000,
+        "title": "Greece",
+        "genre": "Europe"
+    },
+    {
+        "x": 35300,
+        "value": 77.3,
+        "size": 9690000,
+        "title": "Hungary",
+        "genre": "Europe"
+    },
+    {
+        "x": 56800,
+        "value": 84.6,
+        "size": 388000,
+        "title": "Iceland",
+        "genre": "Europe"
+    },
+    {
+        "x": 104000,
+        "value": 82.6,
+        "size": 5200000,
+        "title": "Ireland",
+        "genre": "Europe"
+    },
+    {
+        "x": 44400,
+        "value": 83.8,
+        "size": 59500000,
+        "title": "Italy",
+        "genre": "Europe"
+    },
+    {
+        "x": 33000,
+        "value": 76.4,
+        "size": 1880000,
+        "title": "Latvia",
+        "genre": "Europe"
+    },
+    {
+        "x": 39100,
+        "value": 76.9,
+        "size": 2850000,
+        "title": "Lithuania",
+        "genre": "Europe"
+    },
+    {
+        "x": 111000,
+        "value": 83.5,
+        "size": 665000,
+        "title": "Luxembourg",
+        "genre": "Europe"
+    },
+    {
+        "x": 48800,
+        "value": 83.2,
+        "size": 533000,
+        "title": "Malta",
+        "genre": "Europe"
+    },
+    {
+        "x": 13600,
+        "value": 72.8,
+        "size": 3070000,
+        "title": "Moldova",
+        "genre": "Europe"
+    },
+    {
+        "x": 218000,
+        "value": 80.5,
+        "size": 39000,
+        "title": "Monaco",
+        "genre": "Europe"
+    },
+    {
+        "x": 23500,
+        "value": 76.6,
+        "size": 634000,
+        "title": "Montenegro",
+        "genre": "Europe"
+    },
+    {
+        "x": 58000,
+        "value": 82.3,
+        "size": 18100000,
+        "title": "Netherlands",
+        "genre": "Europe"
+    },
+    {
+        "x": 17500,
+        "value": 72.4,
+        "size": 1830000,
+        "title": "North Macedonia",
+        "genre": "Europe"
+    },
+    {
+        "x": 66900,
+        "value": 83.5,
+        "size": 5520000,
+        "title": "Norway",
+        "genre": "Europe"
+    },
+    {
+        "x": 38000,
+        "value": 78.8,
+        "size": 38800000,
+        "title": "Poland",
+        "genre": "Europe"
+    },
+    {
+        "x": 36200,
+        "value": 82.4,
+        "size": 10400000,
+        "title": "Portugal",
+        "genre": "Europe"
+    },
+    {
+        "x": 33100,
+        "value": 72.4,
+        "size": 19100000,
+        "title": "Romania",
+        "genre": "Europe"
+    },
+    {
+        "x": 28800,
+        "value": 73.6,
+        "size": 145000000,
+        "title": "Russia",
+        "genre": "Europe"
+    },
+    {
+        "x": 68800,
+        "value": 82.8,
+        "size": 33700,
+        "title": "San Mariano",
+        "genre": "Europe"
+    },
+    {
+        "x": 21500,
+        "value": 74.2,
+        "size": 6770000,
+        "title": "Serbia",
+        "genre": "Europe"
+    },
+    {
+        "x": 33800,
+        "value": 78.2,
+        "size": 5520000,
+        "title": "Slovak Republic",
+        "genre": "Europe"
+    },
+    {
+        "x": 41400,
+        "value": 82.1,
+        "size": 2120000,
+        "title": "Slovenia",
+        "genre": "Europe"
+    },
+    {
+        "x": 40300,
+        "value": 83.6,
+        "size": 47900000,
+        "title": "Spain",
+        "genre": "Europe"
+    },
+    {
+        "x": 54500,
+        "value": 83.4,
+        "size": 10600000,
+        "title": "Sweden",
+        "genre": "Europe"
+    },
+    {
+        "x": 71200,
+        "value": 84.6,
+        "size": 8870000,
+        "title": "Switzerland",
+        "genre": "Europe"
+    },
+    {
+        "x": 34200,
+        "value": 79.3,
+        "size": 87300000,
+        "title": "Turkey",
+        "genre": "Europe"
+    },
+    {
+        "x": 46000,
+        "value": 81.7,
+        "size": 68700000,
+        "title": "UK",
+        "genre": "Europe"
+    },
+    {
+        "x": 4700,
+        "value": 72.3,
+        "size": 37700000,
+        "title": "Ukraine",
+        "genre": "Europe"
+    },
+        {
+            "x": 11500,
+            "value": 77.1,
+            "size": 46200000,
+            "title": "Algeria",
+            "genre": "Africa"
+        },
+        {
+            "x": 5780,
+            "value": 65.9,
+            "size": 36700000,
+            "title": "Angola",
+            "genre": "Africa"
+        },
+        {
+            "x": 3560,
+            "value": 64.5,
+            "size": 14100000,
+            "title": "Benin",
+            "genre": "Africa"
+        },
+        {
+            "x": 15600,
+            "value": 62.8,
+            "size": 2480000,
+            "title": "Bostwanna",
+            "genre": "Africa"
+        },
+        {
+            "x": 2170,
+            "value": 62.2,
+            "size": 23000000,
+            "title": "Burkina Faso",
+            "genre": "Africa"
+        },
+        {
+            "x": 708,
+            "value": 64,
+            "size": 13700000,
+            "title": "Burundi",
+            "genre": "Africa"
+        },
+        {
+            "x": 3780,
+            "value": 63.7,
+            "size": 28400000,
+            "title": "Cameroon",
+            "genre": "Africa"
+        },
+        {
+            "x": 7990,
+            "value": 74.6,
+            "size": 522000,
+            "title": "Cape Verde",
+            "genre": "Africa"
+        },
+        {
+            "x": 807,
+            "value": 52.8,
+            "size": 5150000,
+            "title": "Central African Republic",
+            "genre": "Africa"
+        },
+        {
+        "x": 1430,
+        "value": 60.9,
+        "size": 19300000,
+        "title": "Chad",
+        "genre": "Africa"
+        },
+        {
+        "x": 3270,
+        "value": 69.8,
+        "size": 850000,
+        "title": "Comoros",
+        "genre": "Africa"
+        },
+        {
+        "x": 1190,
+        "value": 65.4,
+        "size": 106000000,
+        "title": "Congo, Dem. Rep.",
+        "genre": "Africa"
+        },
+        {
+            "x": 3200,
+            "value": 66,
+            "size": 6180000,
+            "title": "Congo, Rep.",
+            "genre": "Africa"
+        },
+        {
+            "x": 5730,
+            "value": 65.1,
+            "size": 31200000,
+            "title": "Cote d'lvoire",
+            "genre": "Africa"
+        },
+        {
+            "x": 5290,
+            "value": 67.5,
+            "size": 1150000,
+            "title": "Djibouti",
+            "genre": "Africa"
+        },
+       
+        {
+            "x": 13100,
+            "value": 70.4,
+            "size": 115000000,
+            "title": "Egypt",
+            "genre": "Africa"
+        },
+        {
+            "x": 13600,
+            "value": 66.3,
+            "size": 1850000,
+            "title": "Equatorial Guniea",
+            "genre": "Africa"
+        },
+        {
+            "x": 2020,
+            "value": 63.8,
+            "size": 3470000,
+            "title": "Eritrea",
+            "genre": "Africa"
+        },
+        
+        {
+            "x": 9190,
+            "value": 55.5,
+            "size": 1230000,
+            "title": "Eswatini",
+            "genre": "Africa"
+        },
+        {
+            "x": 2470,
+            "value": 69.7,
+            "size": 129000000,
+            "title": "Ethiopia",
+            "genre": "Africa"
+        },
+        {
+            "x": 14000,
+            "value": 67.4,
+            "size": 2480000,
+            "title": "Gabon",
+            "genre": "Africa"
+        },
+        {
+            "x": 2180,
+            "value": 67.1,
+            "size": 2700000,
+            "title": "Gambia",
+            "genre": "Africa"
+        },
+        {
+            "x": 5590,
+            "value": 66.1,
+            "size": 33800000,
+            "title": "Ghana",
+            "genre": "Africa"
+        },
+        {
+            "x": 2820,
+            "value": 61.1,
+            "size": 14400000,
+            "title": "Guinea",
+            "genre": "Africa"
+        },
+        {
+            "x": 1910,
+            "value": 60.6,
+            "size": 2150000,
+            "title": "Guinea-Bissau",
+            "genre": "Africa"
+        },
+        {
+            "x": 5050,
+            "value": 66.9,
+            "size": 55300000,
+            "title": "Kenya",
+            "genre": "Africa"
+        },
+        {
+            "x": 2290,
+            "value": 52.5,
+            "size": 2310000,
+            "title": "Lesotho",
+            "genre": "Africa"
+        },
+        {
+            "x": 1500,
+            "value": 67.1,
+            "size": 5490000,
+            "title": "Liberia",
+            "genre": "Africa"
+        },
+        {
+            "x": 19800,
+            "value": 76.8,
+            "size": 7310000,
+            "title": "Libya",
+            "genre": "Africa"
+        },
+        {
+            "x": 1530,
+            "value": 66,
+            "size": 31200000,
+            "title": "Madagascar",
+            "genre": "Africa"
+        },
+        {
+            "x": 1450,
+            "value": 64.3,
+            "size": 21100000,
+            "title": "Malawi",
+            "genre": "Africa"
+        },
+        {
+            "x": 2170,
+            "value": 62.2,
+            "size": 23800000,
+            "title": "Mali",
+            "genre": "Africa"
+        },
+        {
+            "x": 5540,
+            "value": 70.5,
+            "size": 5020000,
+            "title": "Mauritania",
+            "genre": "Africa"
+        },
+        {
+            "x": 24400,
+            "value": 76,
+            "size": 1270000,
+            "title": "Mauritius",
+            "genre": "Africa"
+        },
+        {
+            "x": 8250,
+            "value": 74.3,
+            "size": 37700000,
+            "title": "Morocco",
+            "genre": "Africa"
+        },
+        {
+            "x": 1270,
+            "value": 59.5,
+            "size": 33600000,
+            "title": "Mozambique",
+            "genre": "Africa"
+        },
+        {
+            "x": 9820,
+            "value": 61.6,
+            "size": 2960000,
+            "title": "Namibia",
+            "genre": "Africa"
+        },
+        {
+            "x": 1260,
+            "value": 62.5,
+            "size": 26200000,
+            "title": "Niger",
+            "genre": "Africa"
+        },
+        {
+            "x": 4990,
+            "value": 65.5,
+            "size": 228000000,
+            "title": "Nigeria",
+            "genre": "Africa"
+        },
+        {
+            "x": 2500,
+            "value": 69.6,
+            "size": 14000000,
+            "title": "Rwanda",
+            "genre": "Africa"
+        },
+        {
+            "x": 3880,
+            "value": 71.3,
+            "size": 231000,
+            "title": "Sao Tome and Principe",
+            "genre": "Africa"
+        },
+        {
+            "x": 3590,
+            "value": 69.3,
+            "size": 18100000,
+            "title": "Senegal",
+            "genre": "Africa"
+        },
+        {
+            "x": 27200,
+            "value": 74.4,
+            "size": 128000,
+            "title": "Seychelles",
+            "genre": "Africa"
+        },
+        {
+            "x": 1660,
+            "value": 62.3,
+            "size": 8460000,
+            "title": "Sieerra Leone",
+            "genre": "Africa"
+        },
+        {
+            "x": 1130,
+            "value": 58.8,
+            "size": 18400000,
+            "title": "Somalia",
+            "genre": "Africa"
+        },
+        {
+            "x": 13400,
+            "value": 61.9,
+            "size": 63200000,
+            "title": "South Africa",
+            "genre": "Africa"
+        },
+        {
+            "x": 354,
+            "value": 64.4,
+            "size": 11500000,
+            "title": "South Sudan",
+            "genre": "Africa"
+        },
+        {
+            "x": 3060,
+            "value": 70.7,
+            "size": 50000000,
+            "title": "Sudan",
+            "genre": "Africa"
+        },
+        {
+            "x": 2680,
+            "value": 67.8,
+            "size": 66600000,
+            "title": "Tanzania",
+            "genre": "Africa"
+        },
+        {
+            "x": 2300,
+            "value": 66,
+            "size": 9300000,
+            "title": "Togo",
+            "genre": "Africa"
+        },
+        {
+            "x": 10500,
+            "value": 78.7,
+            "size": 12200000,
+            "title": "Tunisia",
+            "genre": "Africa"
+        },
+        {
+            "x": 2330,
+            "value": 67.1,
+            "size": 48700000,
+            "title": "Uganda",
+            "genre": "Africa"
+        },
+        {
+            "x": 3410,
+            "value": 63.4,
+            "size": 20700000,
+            "title": "Zambia",
+            "genre": "Africa"
+        },
+        {
+            "x": 2270,
+            "value": 61.7,
+            "size": 16300000,
+            "title": "Zimbabwe",
+            "genre": "Africa"
+        },
+            {
+                "x": 22400,
+                "value": 77,
+                "size": 93300,
+                "title": "Antigua and Barbuda",
+                "genre": "The Americas"
+            },
+            {
+                "x": 21800,
+                "value": 77.3,
+                "size": 45500000,
+                "title": "Argentina",
+                "genre": "The Americas"
+            },
+            {
+                "x": 33800,
+                "value": 76.8,
+                "size": 399000,
+                "title": "Bahamas",
+                "genre": "The Americas"
+            },
+            {
+                "x": 16300,
+                "value": 76.8,
+                "size": 282000,
+                "title": "Barbados",
+                "genre": "The Americas"
+            },
+            {
+                "x": 9700,
+                "value": 75.2,
+                "size": 411000,
+                "title": "Belize",
+                "genre": "The Americas"
+            },
+            {
+                "x": 8330,
+                "value": 73,
+                "size": 12200000,
+                "title": "Bolivia",
+                "genre": "The Americas"
+            },
+            {
+                "x": 15500,
+                "value": 76.7,
+                "size": 211000000,
+                "title": "Brazil",
+                "genre": "The Americas"
+            },
+            {
+                "x": 48200,
+                "value": 82.8,
+                "size": 39300000,
+                "title": "Canada",
+                "genre": "The Americas"
+            },
+            {
+                "x": 25800,
+                "value": 81,
+                "size": 19700000,
+                "title": "Chile",
+                "genre": "The Americas"
+            },
+            {
+            "x": 15700,
+            "value": 81,
+            "size": 52300000,
+            "title": "Colombia",
+            "genre": "The Americas"
+            },
+            {
+            "x": 23000,
+            "value": 80.9,
+            "size": 5110000,
+            "title": "Costa Rica",
+            "genre": "The Americas"
+            },
+            {
+            "x": 8840,
+            "value": 79.4,
+            "size": 11000000,
+            "title": "Cuba",
+            "genre": "The Americas"
+            },
+            {
+                "x": 11900,
+                "value": 73,
+                "size": 66500,
+                "title": "Dominica",
+                "genre": "The Americas"
+            },
+            {
+                "x": 19600,
+                "value": 74,
+                "size": 11300000,
+                "title": "Dominican Republic",
+                "genre": "The Americas"
+            },
+            {
+                "x": 11300,
+                "value": 77.2,
+                "size": 18000000,
+                "title": "Ecuador",
+                "genre": "The Americas"
+            },
+           
+            {
+                "x": 9700,
+                "value": 76.6,
+                "size": 6310000,
+                "title": "El Salvador",
+                "genre": "The Americas"
+            },
+            {
+                "x": 15200,
+                "value": 73.9,
+                "size": 117000,
+                "title": "Grenada",
+                "genre": "The Americas"
+            },
+            {
+                "x": 9350,
+                "value": 69.6,
+                "size": 18100000,
+                "title": "Guatemala",
+                "genre": "The Americas"
+            },
+            
+            {
+                "x": 47100,
+                "value": 68,
+                "size": 826000,
+                "title": "Guyana",
+                "genre": "The Americas"
+            },
+            {
+                "x": 2710,
+                "value": 64.3,
+                "size": 11600000,
+                "title": "Haiti",
+                "genre": "The Americas"
+            },
+            {
+                "x": 5830,
+                "value": 72.7,
+                "size": 10600000,
+                "title": "Honduras",
+                "genre": "The Americas"
+            },
+            {
+                "x": 10300,
+                "value": 76.9,
+                "size": 2840000,
+                "title": "Jamaica",
+                "genre": "The Americas"
+            },
+            {
+                "x": 20200,
+                "value": 76.5,
+                "size": 130000000,
+                "title": "Mexico",
+                "genre": "The Americas"
+            },
+            {
+                "x": 6000,
+                "value": 76.1,
+                "size": 6820000,
+                "title": "Nicargua",
+                "genre": "The Americas"
+            },
+            {
+                "x": 35200,
+                "value": 80.8,
+                "size": 4460000,
+                "title": "Panama",
+                "genre": "The Americas"
+            },
+            {
+                "x": 14000,
+                "value": 77.1,
+                "size": 6840000,
+                "title": "Paraguay",
+                "genre": "The Americas"
+            },
+            {
+                "x": 12600,
+                "value": 81.8,
+                "size": 33800000,
+                "title": "Peru",
+                "genre": "The Americas"
+            },
+            {
+                "x": 30200,
+                "value": 72.7,
+                "size": 46800,
+                "title": "St. Kitts and Nevis",
+                "genre": "The Americas"
+            },
+            {
+                "x": 15800,
+                "value": 75.8,
+                "size": 179000,
+                "title": "St. Lucia",
+                "genre": "The Americas"
+            },
+            {
+                "x": 15800,
+                "value": 70.4,
+                "size": 101000,
+                "title": "St. Vincent and the Grenadines",
+                "genre": "The Americas"
+            },
+            {
+                "x": 15200,
+                "value": 73.3,
+                "size": 629000,
+                "title": "Suriname",
+                "genre": "The Americas"
+            },
+            {
+                "x": 23700,
+                "value": 75.5,
+                "size": 1500000,
+                "title": "Trinidad and Tobago",
+                "genre": "The Americas"
+            },
+            {
+                "x": 24500,
+                "value": 78.2,
+                "size": 3390000,
+                "title": "Uruguay",
+                "genre": "The Americas"
+            },
+            {
+                "x": 65900,
+                "value": 79.5,
+                "size": 343000000,
+                "title": "USA",
+                "genre": "The Americas"
+            },
+            {
+                "x": 6500,
+                "value": 75.8,
+                "size": 28300000,
+                "title": "Venezuela",
+                "genre": "The Americas"
+            }
+        ]

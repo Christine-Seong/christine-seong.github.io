@@ -1,0 +1,333 @@
+[
+    {
+        "x": 16200,
+        "value": 77.3,
+        "size": 2810000,
+        "title": "Albania",
+        "genre": "Shorts"
+    },
+    {
+        "x": 55300,
+        "value": 82.9,
+        "size": 80900,
+        "title": "Andorra",
+        "genre": "Shorts"
+    },
+    {
+        "x": 17500,
+        "value": 76.5,
+        "size": 2940000,
+        "title": "Armenia",
+        "genre": "Shorts"
+    },
+    {
+        "x": 55200,
+        "value": 82.8,
+        "size": 9130000,
+        "title": "Austria",
+        "genre": "Shorts"
+    },
+    {
+        "x": 15300,
+        "value": 71.5,
+        "size": 10300000,
+        "title": "Azerbaijian",
+        "genre": "Shorts"
+    },
+    {
+        "x": 19900,
+        "value": 74.8,
+        "size": 9120000,
+        "title": "Belarus",
+        "genre": "Shorts"
+    },
+    {
+        "x": 53000,
+        "value": 82,
+        "size": 11700000,
+        "title": "Belgium",
+        "genre": "Shorts"
+    },
+    {
+        "x": 17200,
+        "value": 75.9,
+        "size": 3190000,
+        "title": "Bosnia and Herzegovina",
+        "genre": "Shorts"
+    },
+    {
+        "x": 27600,
+        "value": 71.2,
+        "size": 6800000,
+        "title": "Bulgaria",
+        "genre": "Shorts"
+    },
+    {
+    "x": 35300,
+    "value": 79.3,
+    "size": 3900000,
+    "title": "Croatia",
+    "genre": "Shorts"
+    },
+    {
+    "x": 43500,
+    "value": 81.5,
+    "size": 1340000,
+    "title": "Cyprus",
+    "genre": "Shorts"
+    },
+    {
+    "x": 40200,
+    "value": 80,
+    "size": 10800000,
+    "title": "Czech Republic",
+    "genre": "Shorts"
+    },
+    {
+        "x": 59800,
+        "value": 81.7,
+        "size": 5950000,
+        "title": "Denmark",
+        "genre": "Shorts"
+    },
+    {
+        "x": 36400,
+        "value": 78.7,
+        "size": 1370000,
+        "title": "Estonia",
+        "genre": "Shorts"
+    },
+    {
+        "x": 48500,
+        "value": 82.5,
+        "size": 5600000,
+        "title": "Finland",
+        "genre": "Shorts"
+    },
+   
+    {
+        "x": 46100,
+        "value": 83.5,
+        "size": 66400000,
+        "title": "France",
+        "genre": "Shorts"
+    },
+    {
+        "x": 18200,
+        "value": 72.4,
+        "size": 3810000,
+        "title": "Georgia",
+        "genre": "Shorts"
+    },
+    {
+        "x": 53200,
+        "value": 81.8,
+        "size": 84500000,
+        "title": "Germany",
+        "genre": "Shorts"
+    },
+    
+    {
+        "x": 32500,
+        "value": 81.7,
+        "size": 10200000,
+        "title": "Greece",
+        "genre": "Shorts"
+    },
+    {
+        "x": 35300,
+        "value": 77.3,
+        "size": 9690000,
+        "title": "Hungary",
+        "genre": "Shorts"
+    },
+    {
+        "x": 56800,
+        "value": 84.6,
+        "size": 388000,
+        "title": "Iceland",
+        "genre": "Shorts"
+    },
+    {
+        "x": 104000,
+        "value": 82.6,
+        "size": 5200000,
+        "title": "Ireland",
+        "genre": "Shorts"
+    },
+    {
+        "x": 44400,
+        "value": 83.8,
+        "size": 59500000,
+        "title": "Italy",
+        "genre": "Shorts"
+    },
+    {
+        "x": 33000,
+        "value": 76.4,
+        "size": 1880000,
+        "title": "Latvia",
+        "genre": "Shorts"
+    },
+    {
+        "x": 39100,
+        "value": 76.9,
+        "size": 2850000,
+        "title": "Lithuania",
+        "genre": "Shorts"
+    },
+    {
+        "x": 111000,
+        "value": 83.5,
+        "size": 665000,
+        "title": "Luxembourg",
+        "genre": "Shorts"
+    },
+    {
+        "x": 48800,
+        "value": 83.2,
+        "size": 533000,
+        "title": "Malta",
+        "genre": "Shorts"
+    },
+    {
+        "x": 13600,
+        "value": 72.8,
+        "size": 3070000,
+        "title": "Moldova",
+        "genre": "Shorts"
+    },
+    {
+        "x": 218000,
+        "value": 80.5,
+        "size": 39000,
+        "title": "Monaco",
+        "genre": "Shorts"
+    },
+    {
+        "x": 23500,
+        "value": 76.6,
+        "size": 634000,
+        "title": "Montenegro",
+        "genre": "Shorts"
+    },
+    {
+        "x": 58000,
+        "value": 82.3,
+        "size": 18100000,
+        "title": "Netherlands",
+        "genre": "Shorts"
+    },
+    {
+        "x": 17500,
+        "value": 72.4,
+        "size": 1830000,
+        "title": "North Macedonia",
+        "genre": "Shorts"
+    },
+    {
+        "x": 66900,
+        "value": 83.5,
+        "size": 5520000,
+        "title": "Norway",
+        "genre": "Shorts"
+    },
+    {
+        "x": 38000,
+        "value": 78.8,
+        "size": 38800000,
+        "title": "Poland",
+        "genre": "Shorts"
+    },
+    {
+        "x": 36200,
+        "value": 82.4,
+        "size": 10400000,
+        "title": "Portugal",
+        "genre": "Shorts"
+    },
+    {
+        "x": 33100,
+        "value": 72.4,
+        "size": 19100000,
+        "title": "Romania",
+        "genre": "Shorts"
+    },
+    {
+        "x": 28800,
+        "value": 73.6,
+        "size": 145000000,
+        "title": "Russia",
+        "genre": "Shorts"
+    },
+    {
+        "x": 68800,
+        "value": 82.8,
+        "size": 33700,
+        "title": "San Mariano",
+        "genre": "Shorts"
+    },
+    {
+        "x": 21500,
+        "value": 74.2,
+        "size": 6770000,
+        "title": "Serbia",
+        "genre": "Shorts"
+    },
+    {
+        "x": 33800,
+        "value": 78.2,
+        "size": 5520000,
+        "title": "Slovak Republic",
+        "genre": "Shorts"
+    },
+    {
+        "x": 41400,
+        "value": 82.1,
+        "size": 2120000,
+        "title": "Slovenia",
+        "genre": "Shorts"
+    },
+    {
+        "x": 40300,
+        "value": 83.6,
+        "size": 47900000,
+        "title": "Spain",
+        "genre": "Shorts"
+    },
+    {
+        "x": 54500,
+        "value": 83.4,
+        "size": 10600000,
+        "title": "Sweden",
+        "genre": "Shorts"
+    },
+    {
+        "x": 71200,
+        "value": 84.6,
+        "size": 8870000,
+        "title": "Switzerland",
+        "genre": "Shorts"
+    },
+    {
+        "x": 34200,
+        "value": 79.3,
+        "size": 87300000,
+        "title": "Turkey",
+        "genre": "Shorts"
+    },
+    {
+        "x": 46000,
+        "value": 81.7,
+        "size": 68700000,
+        "title": "UK",
+        "genre": "Shorts"
+    },
+    {
+        "x": 4700,
+        "value": 72.3,
+        "size": 37700000,
+        "title": "Ukraine",
+        "genre": "Shorts"
+    }
+]

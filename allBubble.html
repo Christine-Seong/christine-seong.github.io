@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Final Project: Factfulness</title>
+    <script src="https://cdn.anychart.com/releases/8.11.1/js/anychart-base.min.js"></script>
+    <script src="https://cdn.anychart.com/releases/8.11.1/js/anychart-data-adapter.min.js"></script>
+    <style type="text/css">
+      html, body, #container {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      .button-container {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        z-index: 10;
+      }
+      .graph-button {
+        padding: 15px 30px;
+        font-size: 18px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        background-color: #007BFF;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        text-decoration: none;
+      }
+      .graph-button:hover {
+        background-color: #0056b3;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="button-container">
+      <a href="worldmap.html" class="graph-button">
+        Check the graph by world region
+      </a>
+    </div>
+    <div id="container"></div>
+    <script src="allBubble.js"></script>
+  </body>
+</html>

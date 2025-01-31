@@ -1,0 +1,249 @@
+[
+    {
+        "x": 22400,
+        "value": 77,
+        "size": 93300,
+        "title": "Antigua and Barbuda",
+        "genre": "Shorts"
+    },
+    {
+        "x": 21800,
+        "value": 77.3,
+        "size": 45500000,
+        "title": "Argentina",
+        "genre": "Shorts"
+    },
+    {
+        "x": 33800,
+        "value": 76.8,
+        "size": 399000,
+        "title": "Bahamas",
+        "genre": "Shorts"
+    },
+    {
+        "x": 16300,
+        "value": 76.8,
+        "size": 282000,
+        "title": "Barbados",
+        "genre": "Shorts"
+    },
+    {
+        "x": 9700,
+        "value": 75.2,
+        "size": 411000,
+        "title": "Belize",
+        "genre": "Shorts"
+    },
+    {
+        "x": 8330,
+        "value": 73,
+        "size": 12200000,
+        "title": "Bolivia",
+        "genre": "Shorts"
+    },
+    {
+        "x": 15500,
+        "value": 76.7,
+        "size": 211000000,
+        "title": "Brazil",
+        "genre": "Shorts"
+    },
+    {
+        "x": 48200,
+        "value": 82.8,
+        "size": 39300000,
+        "title": "Canada",
+        "genre": "Shorts"
+    },
+    {
+        "x": 25800,
+        "value": 81,
+        "size": 19700000,
+        "title": "Chile",
+        "genre": "Shorts"
+    },
+    {
+    "x": 15700,
+    "value": 81,
+    "size": 52300000,
+    "title": "Colombia",
+    "genre": "Shorts"
+    },
+    {
+    "x": 23000,
+    "value": 80.9,
+    "size": 5110000,
+    "title": "Costa Rica",
+    "genre": "Shorts"
+    },
+    {
+    "x": 8840,
+    "value": 79.4,
+    "size": 11000000,
+    "title": "Cuba",
+    "genre": "Shorts"
+    },
+    {
+        "x": 11900,
+        "value": 73,
+        "size": 66500,
+        "title": "Dominica",
+        "genre": "Shorts"
+    },
+    {
+        "x": 19600,
+        "value": 74,
+        "size": 11300000,
+        "title": "Dominican Republic",
+        "genre": "Shorts"
+    },
+    {
+        "x": 11300,
+        "value": 77.2,
+        "size": 18000000,
+        "title": "Ecuador",
+        "genre": "Shorts"
+    },
+   
+    {
+        "x": 9700,
+        "value": 76.6,
+        "size": 6310000,
+        "title": "El Salvador",
+        "genre": "Shorts"
+    },
+    {
+        "x": 15200,
+        "value": 73.9,
+        "size": 117000,
+        "title": "Grenada",
+        "genre": "Shorts"
+    },
+    {
+        "x": 9350,
+        "value": 69.6,
+        "size": 18100000,
+        "title": "Guatemala",
+        "genre": "Shorts"
+    },
+    
+    {
+        "x": 47100,
+        "value": 68,
+        "size": 826000,
+        "title": "Guyana",
+        "genre": "Shorts"
+    },
+    {
+        "x": 2710,
+        "value": 64.3,
+        "size": 11600000,
+        "title": "Haiti",
+        "genre": "Shorts"
+    },
+    {
+        "x": 5830,
+        "value": 72.7,
+        "size": 10600000,
+        "title": "Honduras",
+        "genre": "Shorts"
+    },
+    {
+        "x": 10300,
+        "value": 76.9,
+        "size": 2840000,
+        "title": "Jamaica",
+        "genre": "Shorts"
+    },
+    {
+        "x": 20200,
+        "value": 76.5,
+        "size": 130000000,
+        "title": "Mexico",
+        "genre": "Shorts"
+    },
+    {
+        "x": 6000,
+        "value": 76.1,
+        "size": 6820000,
+        "title": "Nicargua",
+        "genre": "Shorts"
+    },
+    {
+        "x": 35200,
+        "value": 80.8,
+        "size": 4460000,
+        "title": "Panama",
+        "genre": "Shorts"
+    },
+    {
+        "x": 14000,
+        "value": 77.1,
+        "size": 6840000,
+        "title": "Paraguay",
+        "genre": "Shorts"
+    },
+    {
+        "x": 12600,
+        "value": 81.8,
+        "size": 33800000,
+        "title": "Peru",
+        "genre": "Shorts"
+    },
+    {
+        "x": 30200,
+        "value": 72.7,
+        "size": 46800,
+        "title": "St. Kitts and Nevis",
+        "genre": "Shorts"
+    },
+    {
+        "x": 15800,
+        "value": 75.8,
+        "size": 179000,
+        "title": "St. Lucia",
+        "genre": "Shorts"
+    },
+    {
+        "x": 15800,
+        "value": 70.4,
+        "size": 101000,
+        "title": "St. Vincent and the Grenadines",
+        "genre": "Shorts"
+    },
+    {
+        "x": 15200,
+        "value": 73.3,
+        "size": 629000,
+        "title": "Suriname",
+        "genre": "Shorts"
+    },
+    {
+        "x": 23700,
+        "value": 75.5,
+        "size": 1500000,
+        "title": "Trinidad and Tobago",
+        "genre": "Shorts"
+    },
+    {
+        "x": 24500,
+        "value": 78.2,
+        "size": 3390000,
+        "title": "Uruguay",
+        "genre": "Shorts"
+    },
+    {
+        "x": 65900,
+        "value": 79.5,
+        "size": 343000000,
+        "title": "USA",
+        "genre": "Shorts"
+    },
+    {
+        "x": 6500,
+        "value": 75.8,
+        "size": 28300000,
+        "title": "Venezuela",
+        "genre": "Shorts"
+    }
+]

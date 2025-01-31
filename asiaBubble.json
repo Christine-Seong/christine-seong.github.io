@@ -1,0 +1,417 @@
+[
+    {
+        "x": 1360,
+        "value": 64,
+        "size": 41500000,
+        "title": "Afghanistan",
+        "genre": "Shorts"
+    },
+    {
+        "x": 6560,
+        "value": 75.8,
+        "size": 171000000,
+        "title": "Bangladesh",
+        "genre": "Shorts"
+    },
+    {
+        "x": 12400,
+        "value": 74.3,
+        "size": 786000,
+        "title": "Bhutan",
+        "genre": "Shorts"
+    },
+    {
+        "x": 59000,
+        "value": 74.2,
+        "size": 459000,
+        "title": "Brunei",
+        "genre": "Shorts"
+    },
+    {
+        "x": 4730,
+        "value": 70.7,
+        "size": 17400000,
+        "title": "Cambodia",
+        "genre": "Shorts"
+    },
+    {
+        "x": 19200,
+        "value": 78.4,
+        "size": 1420000000,
+        "title": "China",
+        "genre": "Shorts"
+    },
+    {
+        "x": 51600,
+        "value": 83.5,
+        "size": 26500000,
+        "title": "Australia",
+        "genre": "Shorts"
+    },
+    {
+        "x": 13300,
+        "value": 68.9,
+        "size": 924000,
+        "title": "Fiji",
+        "genre": "Shorts"
+    },
+    {
+        "x": 58700,
+        "value": 0,
+        "size": 7440000,
+        "title": "Hong Kong, China",
+        "genre": "Shorts"
+    },
+    {
+    "x": 7570,
+    "value": 71.9,
+    "size": 1440000000,
+    "title": "India",
+    "genre": "Shorts"
+    },
+    {
+    "x": 12900,
+    "value": 72,
+    "size": 281000000,
+    "title": "Indonesia",
+    "genre": "Shorts"
+    },
+    {
+    "x": 16100,
+    "value": 78.6,
+    "size": 90600000,
+    "title": "Iran",
+    "genre": "Shorts"
+    },
+    {
+        "x": 8780,
+        "value": 73.8,
+        "size": 45100000,
+        "title": "Iraq",
+        "genre": "Shorts"
+    },
+    {
+        "x": 44400,
+        "value": 83.6,
+        "size": 9260000,
+        "title": "Israel",
+        "genre": "Shorts"
+    },
+    {
+        "x": 42600,
+        "value": 85.3,
+        "size": 124000000,
+        "title": "Japan",
+        "genre": "Shorts"
+    },
+   
+    {
+        "x": 9510,
+        "value": 77.2,
+        "size": 11400000,
+        "title": "Jordan",
+        "genre": "Shorts"
+    },
+    {
+        "x": 27300,
+        "value": 70.7,
+        "size": 20300000,
+        "title": "Kazakhstan",
+        "genre": "Shorts"
+    },
+    {
+        "x": 2100,
+        "value": 61.4,
+        "size": 133000,
+        "title": "Kiribati",
+        "genre": "Shorts"
+    },
+    
+    {
+        "x": 46700,
+        "value": 82.3,
+        "size": 4840000,
+        "title": "Kuwait",
+        "genre": "Shorts"
+    },
+    {
+        "x": 5440,
+        "value": 73.3,
+        "size": 7070000,
+        "title": "Kyrgyz Republic",
+        "genre": "Shorts"
+    },
+    {
+        "x": 8130,
+        "value": 70.1,
+        "size": 7660000,
+        "title": "Lao",
+        "genre": "Shorts"
+    },
+    {
+        "x": 13500,
+        "value": 73.6,
+        "size": 5770000,
+        "title": "Lebanon",
+        "genre": "Shorts"
+    },
+    {
+        "x": 29000,
+        "value": 75.7,
+        "size": 35100000,
+        "title": "Malaysia",
+        "genre": "Shorts"
+    },
+    {
+        "x": 22200,
+        "value": 80,
+        "size": 526000,
+        "title": "Maldives",
+        "genre": "Shorts"
+    },
+    {
+        "x": 6120,
+        "value": 66,
+        "size": 38800,
+        "title": "Marshall Island",
+        "genre": "Shorts"
+    },
+    {
+        "x": 52700,
+        "value": 77.7,
+        "size": 1570000,
+        "title": "Bahrain",
+        "genre": "Shorts"
+    },
+    {
+        "x": 3260,
+        "value": 64.3,
+        "size": 113000,
+        "title": "Micronesia, Fed. Sts.",
+        "genre": "Shorts"
+    },
+    {
+        "x": 2700,
+        "value": 69.1,
+        "size": 3430000,
+        "title": "Mongolia",
+        "genre": "Shorts"
+    },
+    {
+        "x": 4180,
+        "value": 70.3,
+        "size": 54100000,
+        "title": "Myanmar",
+        "genre": "Shorts"
+    },
+    {
+        "x": 11100,
+        "value": 64.1,
+        "size": 11900,
+        "title": "Nauru",
+        "genre": "Shorts"
+    },
+    {
+        "x": 4030,
+        "value": 72.3,
+        "size": 29700000,
+        "title": "Nepal",
+        "genre": "Shorts"
+    },
+    {
+        "x": 44600,
+        "value": 82.4,
+        "size": 5170000,
+        "title": "New Zealand",
+        "genre": "Shorts"
+    },
+    {
+        "x": 1800,
+        "value": 73.7,
+        "size": 26400000,
+        "title": "North Korea",
+        "genre": "Shorts"
+    },
+    {
+        "x": 35300,
+        "value": 74.9,
+        "size": 5050000,
+        "title": "Oman",
+        "genre": "Shorts"
+    },
+    {
+        "x": 5270,
+        "value": 66.4,
+        "size": 284000000,
+        "title": "Pakistan",
+        "genre": "Shorts"
+    },
+    {
+        "x": 13800,
+        "value": 68.3,
+        "size": 17700,
+        "title": "Palau",
+        "genre": "Shorts"
+    },
+    {
+        "x": 5290,
+        "value": 73.8,
+        "size": 5410000,
+        "title": "Palestine",
+        "genre": "Shorts"
+    },
+    {
+        "x": 3820,
+        "value": 65.3,
+        "size": 10400000,
+        "title": "Papua New Guinea",
+        "genre": "Shorts"
+    },
+    {
+        "x": 8920,
+        "value": 72.3,
+        "size": 115000000,
+        "title": "Philippines",
+        "genre": "Shorts"
+    },
+    {
+        "x": 88800,
+        "value": 77,
+        "size": 2980000,
+        "title": "Qatar",
+        "genre": "Shorts"
+    },
+    {
+        "x": 5490,
+        "value": 71.1,
+        "size": 217000,
+        "title": "Samoa",
+        "genre": "Shorts"
+    },
+    {
+        "x": 48400,
+        "value": 75.3,
+        "size": 33300000,
+        "title": "Saudi Arabia",
+        "genre": "Shorts"
+    },
+    {
+        "x": 104000,
+        "value": 85.4,
+        "size": 5790000,
+        "title": "Singapore",
+        "genre": "Shorts"
+    },
+    {
+        "x": 2420,
+        "value": 59.6,
+        "size": 800000,
+        "title": "Solomon Islands",
+        "genre": "Shorts"
+    },
+    {
+        "x": 46100,
+        "value": 83.4,
+        "size": 51700000,
+        "title": "South Korea",
+        "genre": "Shorts"
+    },
+    {
+        "x": 12100,
+        "value": 78.1,
+        "size": 23000000,
+        "title": "Sri Lanka",
+        "genre": "Shorts"
+    },
+    {
+        "x": 3170,
+        "value": 74.5,
+        "size": 23600000,
+        "title": "Syria",
+        "genre": "Shorts"
+    },
+    {
+        "x": 59500,
+        "value": 81.1,
+        "size": 23300000,
+        "title": "Taiwan",
+        "genre": "Shorts"
+    },
+    {
+        "x": 4400,
+        "value": 70.1,
+        "size": 10400000,
+        "title": "Tajikistan",
+        "genre": "Shorts"
+    },
+    {
+        "x": 17800,
+        "value": 79.3,
+        "size": 71700000,
+        "title": "Thailand",
+        "genre": "Shorts"
+    },
+    {
+        "x": 3320,
+        "value": 71.7,
+        "size": 1380000,
+        "title": "Timor-Leste",
+        "genre": "Shorts"
+    },
+    {
+        "x": 5800,
+        "value": 73.5,
+        "size": 105000,
+        "title": "Tonga",
+        "genre": "Shorts"
+    },
+    {
+        "x": 15600,
+        "value": 71.4,
+        "size": 7360000,
+        "title": "Turkmenistan",
+        "genre": "Shorts"
+    },
+    {
+        "x": 4730,
+        "value": 68.8,
+        "size": 9820,
+        "title": "Tuvalu",
+        "genre": "Shorts"
+    },
+    {
+        "x": 76500,
+        "value": 74.6,
+        "size": 10600000,
+        "title": "UAE",
+        "genre": "Shorts"
+    },
+    {
+        "x": 8380,
+        "value": 68.9,
+        "size": 35700000,
+        "title": "Uzbekistan",
+        "genre": "Shorts"
+    },
+    {
+        "x": 2780,
+        "value": 66.2,
+        "size": 320000,
+        "title": "Vanuatu",
+        "genre": "Shorts"
+    },
+    {
+        "x": 11900,
+        "value": 75.1,
+        "size": 100000000,
+        "title": "Vietnam",
+        "genre": "Shorts"
+    },
+    {
+        "x": 1650,
+        "value": 67.2,
+        "size": 39400000,
+        "title": "Yeman",
+        "genre": "Shorts"
+    }
+]
