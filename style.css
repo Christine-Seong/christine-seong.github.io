@@ -269,6 +269,24 @@ img.home-icon {
     cursor: pointer;
    z-index: 1000; /* Ensure it's on top of everything */
 }
+img.arrow {
+    position: fixed;
+    top: 10px;
+    left: 60px;
+    width: 70px;
+   height: auto;
+    cursor: pointer;
+   z-index: 1000; /* Ensure it's on top of everything */
+}
+img.gomain {
+    position: fixed;
+    top: 20px;
+    left: 40px;
+    width: 180px;
+   height: auto;
+    cursor: pointer;
+   z-index: 1000; /* Ensure it's on top of everything */
+}
 img.miniworldmap {
     position: fixed;
     top: 30px;
@@ -278,7 +296,6 @@ img.miniworldmap {
     cursor: pointer;
    z-index: 1000; /* Ensure it's on top of everything */
 }
-
 #splash-screen {
     position: fixed;
     top: 0;

@@ -12,9 +12,19 @@
         margin: 0;
         padding: 0;
       }
+      img.arrow {
+      position: fixed;
+      top: 10px;
+      left: 60px;
+      width: 70px;
+      height: auto;
+      cursor: pointer;
+      z-index: 1000; /* Ensure it's on top of everything */
+      }
     </style>
   </head>
   <body>
+    <a href="worldmap.html"><img src="arrow.png" alt="Arrow" class="arrow"></a>
     <div id="container"></div>
     <script src="africaBubble.js"></script>
   </body>
