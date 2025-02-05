@@ -32,15 +32,26 @@
       .graph-button:hover {
         background-color: #0056b3;
       }
+      .home-icon {
+        position: fixed;
+        top: 0px;
+        left: 50px;
+        width: 40px;
+       height: auto;
+        cursor: pointer;
+       z-index: 1000; /* Ensure it's on top of everything */
+      }
     </style>
   </head>
   <body>
+
     <div class="button-container">
       <a href="worldmap.html" class="graph-button">
         Check the graph by world region
       </a>
     </div>
     <div id="container"></div>
+    <a href="submain.html"><img src="homebutton.png" alt="Home" class="home-icon"></a>
     <script src="allBubble.js"></script>
   </body>
 </html>

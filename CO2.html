@@ -12,10 +12,23 @@
         margin: 0;
         padding: 0;
       }
+      .home-icon {
+        position: fixed;
+        top: 10px;
+        left: 30px;
+        width: 40px;
+       height: auto;
+        cursor: pointer;
+       z-index: 1000; /* Ensure it's on top of everything */
+      }
+
     </style>
   </head>
   <body>
+    <a href="submain.html"><img src="homebutton.png" alt="Home" class="home-icon"></a>
+    
     <div id="container"></div>
+
     <script src="CO2.js"></script>
   </body>
 </html>
